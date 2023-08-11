@@ -1,0 +1,32 @@
+:root {
+  --border-color: black;
+}
+
+body {
+  padding-inline: 2rem;
+  padding-block: 2rem;
+  max-height: 80dvh;
+}
+
+.fullDiv {
+  height: -webkit-fill-available;
+}
+
+.scrollY {
+  height: 70vh;
+  overflow-y: auto;
+}
+
+.marginBlockStart2 {
+  margin-block-start: 2em;
+}
+
+.marginBlock1 {
+  margin-block-start: 1em;
+}
+
+.divCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

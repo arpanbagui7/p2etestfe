@@ -1,0 +1,12 @@
+.leftBorder {
+  border-left: 1px solid var(--border-color);
+  padding-inline-start: 1rem;
+}
+
+.width80 {
+  width: 80%;
+}
+
+.marginPoint5 {
+  margin: 0.5rem;
+}
